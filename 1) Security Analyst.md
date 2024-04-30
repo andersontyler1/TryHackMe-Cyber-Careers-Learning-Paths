@@ -10,17 +10,17 @@ Develop security plans, incorporating research on new attack tools and trends, a
 
 ### Learning Path
 
-*Introduction to Cyber Security*
-https://tryhackme.com/path/outline/introtocyber
+*Introduction to Cyber Security*  
+https://tryhackme.com/path/outline/introtocyber  
 24 Hours // 3 Tasks // 8 Rooms
 
-*Pre Security* 
-https://tryhackme.com/path/outline/presecurity
-40 Hours // 5 Tasks // 18 Rooms
+*Pre Security*  
+https://tryhackme.com/path/outline/presecurity  
+40 Hours // 5 Tasks // 18 Rooms  
 &nbsp;&nbsp;&nbsp;&nbsp;> First *Task* is sec1 of  `Introduction to Cyber Security`
 
-*SOC Level 1*
-https://tryhackme.com/path/outline/soclevel1
+*SOC Level 1*  
+https://tryhackme.com/path/outline/soclevel1  
 56 Hours // 7 Tasks // 52 Rooms
 
 <br>
