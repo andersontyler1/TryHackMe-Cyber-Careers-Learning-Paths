@@ -10,11 +10,11 @@ Evaluate and report on insights, recommending actions for attack prevention
 
 ### Learning Path
 
-*Jr Penetration Tester* (Intermediate)
-https://tryhackme.com/path/outline/jrpenetrationtester
-64 Hours // 8 Tasks // 38 Rooms
+*Jr Penetration Tester* (Intermediate)  
+https://tryhackme.com/path/outline/jrpenetrationtester  
+64 Hours // 8 Tasks // 38 Rooms  
 &nbsp;&nbsp;&nbsp;&nbsp;> First *Task* is sec1 of `Introduction to Cyber Security`
 
-*Offensive Pentesting* (Intermediate)
-https://tryhackme.com/path/outline/pentesting
-40 Hours // 5 Tasks // 28 Rooms
+*Offensive Pentesting* (Intermediate)  
+https://tryhackme.com/path/outline/pentesting  
+40 Hours // 5 Tasks // 28 Rooms  

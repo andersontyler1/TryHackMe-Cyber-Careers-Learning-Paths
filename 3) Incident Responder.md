@@ -10,6 +10,6 @@ Post-incident reporting and preparation for future attacks, considering learning
 
 ### Learning Path
 
-*SOC Level 1* (Easy)
-https://tryhackme.com/path/outline/soclevel1
+*SOC Level 1* (Easy)  
+https://tryhackme.com/path/outline/soclevel1  
 56 Hours // 7 Tasks // 52 Rooms
